@@ -5,3 +5,5 @@
 docker build -t thresh .
 
 #Then add Task successfully on girder-web 
+
+#Error pop up when run task
